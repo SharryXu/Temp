@@ -1,0 +1,14 @@
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\bin\Debug\TcpTest.exe.config
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\bin\Debug\TcpTest.exe
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\bin\Debug\TcpTest.pdb
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\obj\Debug\TcpTest.csproj.CoreCompileInputs.cache
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\obj\Debug\TcpTest.exe
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\obj\Debug\TcpTest.pdb
+C:\Users\Sharry\Source\Repos\TcpTest\TcpTest\obj\Debug\TcpTest.csprojAssemblyReference.cache
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\bin\Debug\TcpTest.exe.config
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\bin\Debug\TcpTest.exe
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\bin\Debug\TcpTest.pdb
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\obj\Debug\TcpTest.csprojAssemblyReference.cache
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\obj\Debug\TcpTest.csproj.CoreCompileInputs.cache
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\obj\Debug\TcpTest.exe
+C:\Users\Sharry\Desktop\NetShare\tcpclient\TcpTest\TcpTest\obj\Debug\TcpTest.pdb
